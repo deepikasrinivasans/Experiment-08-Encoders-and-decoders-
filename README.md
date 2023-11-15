@@ -86,7 +86,8 @@ D7 = X Y Z
    - Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
    - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 
-
+<br>
+<br>
 
 ## PROGRAM 
 ```
@@ -132,6 +133,10 @@ endmodule
 ![ttencode1](https://github.com/deepikasrinivasans/Experiment-08-Encoders-and-decoders-/assets/119393935/d9d13f20-8d60-4f30-b788-32323f18afcb)
 ### Decoder:
 ![ttdecode1](https://github.com/deepikasrinivasans/Experiment-08-Encoders-and-decoders-/assets/119393935/c9d748a0-7c65-4987-8add-6604252099b1)
+
+<br>
+<br>
+
 ## OUTPUT WAVEFORM:
 ### Encoder:
 ![encoodewaveform](https://github.com/deepikasrinivasans/Experiment-08-Encoders-and-decoders-/assets/119393935/80cf720f-5b5b-4937-90c0-d85d6a3174da)
