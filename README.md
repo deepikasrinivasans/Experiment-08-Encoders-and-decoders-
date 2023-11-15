@@ -88,6 +88,8 @@ D7 = X Y Z
 
 <br>
 <br>
+<br>
+<br>
 
 ## PROGRAM 
 ```
@@ -142,5 +144,15 @@ endmodule
 ![encoodewaveform](https://github.com/deepikasrinivasans/Experiment-08-Encoders-and-decoders-/assets/119393935/80cf720f-5b5b-4937-90c0-d85d6a3174da)
 ### Decoder:
 ![outoutwaveform](https://github.com/deepikasrinivasans/Experiment-08-Encoders-and-decoders-/assets/119393935/9f811419-ccb2-4117-b1cb-93cbf0d77610)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## RESULTS:
 Thus the program to design encoder and decoder is executed successfully .
