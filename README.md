@@ -151,8 +151,6 @@ endmodule
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ## RESULTS:
 Thus the program to design encoder and decoder is executed successfully .
